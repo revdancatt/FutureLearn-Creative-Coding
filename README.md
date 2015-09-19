@@ -92,7 +92,9 @@ Taking the "bouncing lines" code and turning it into 3D was relatively simple, a
 
 The gif above shows the points bouncing around inside a box, meanwhile the full code persists those lines within the 3D space. But it's harder to show what's going in a single still from the whole sketch.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oMzJUlSgq5g" frameborder="0" allowfullscreen></iframe>
+[[Click here or below to see HD YouTube version](http://www.youtube.com/watch?v=oMzJUlSgq5g)]<br />
+[![YouTube 3D Lines video](http://img.youtube.com/vi/oMzJUlSgq5g/0.jpg)](http://www.youtube.com/watch?v=oMzJUlSgq5g "YouTube 3D Lines video")
+
 
 ## [Week 4](https://github.com/revdancatt/FutureLearn-Creative-Coding/tree/master/week_04)
 
@@ -202,4 +204,5 @@ Each part of the code was trying ideas out, so I could take the elements and wor
 
 I played (which is why it's a bit shonky) the audio live from a Native Instruments Komplete Kontrol, piping it in via SoundFlower. Could easily change the code to get the audio in from somewhere else.
 
-<iframe src="https://player.vimeo.com/video/138961447" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/138961447">Future Learn Creative Coding W6 Audio reactive random landscape</a> from <a href="https://vimeo.com/revdancatt">RevDanCatt</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+[[Click here or below to see HD Vimeo version](https://player.vimeo.com/video/138961447)]<br />
+[![YouTube 3D Lines video](https://i.vimeocdn.com/video/534561113_640x360.jpg)](https://player.vimeo.com/video/138961447 "Vimeo landscape video")
