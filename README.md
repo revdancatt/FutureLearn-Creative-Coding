@@ -22,25 +22,25 @@ Onwards...
 
 An introduction to rules and systems, how can we follow rules to create generative art?
 
-### c01_25squares
+### [c01_25squares](https://github.com/revdancatt/FutureLearn-Creative-Coding/tree/master/week_02/c01_25squares)
 
 ![25 Squares](https://raw.githubusercontent.com/revdancatt/FutureLearn-Creative-Coding/master/week_02/c01_25squares/frames/square_004.png)
 
 Playing with [`handy`](http://www.gicentre.net/handy), to give things a sketched feel. And promptly wanted to use it for every single new project it was that fun/good.
 
-### c02_line_loops
+### [c02_line_loops](https://github.com/revdancatt/FutureLearn-Creative-Coding/tree/master/week_02/c02_line_loops)
 
 ![Line Loops](https://raw.githubusercontent.com/revdancatt/FutureLearn-Creative-Coding/master/week_02/c02_line_loops/frames/round_085.png)
 
 In which I learn that cutting 500x500px animated gif loops is great for tumblr.
 
-### c03_circles
+### [c03_circles](https://github.com/revdancatt/FutureLearn-Creative-Coding/tree/master/week_02/c03_circles)
 
 ![More with the handy library](https://raw.githubusercontent.com/revdancatt/FutureLearn-Creative-Coding/master/week_02/c03_circles/frames/sketch_004.png)
 
 Which introduced us to accepting keyboard input, meanwhile I was more interested in how circles look awesome with the `handy` library (again!!)
 
-### c99_bonus_cubes
+### [c99_bonus_cubes](https://github.com/revdancatt/FutureLearn-Creative-Coding/tree/master/week_02/c99_bonus_cubes)
 
 ![All the animated cubes](https://raw.githubusercontent.com/revdancatt/FutureLearn-Creative-Coding/master/week_02/c99_bonus_cubes/cubes.gif)
 
@@ -52,13 +52,13 @@ Once again in special tumblr format :)
 
 Has me linking `sin()` functions and `frameCount` together for more perfectly looping gifs. And into probably the prettiest part of the course, the screensave/wallpaper lines. Which I then wanted to take in 3D.
 
-### c01_obligatory_tumblr_gif_loop
+### [c01_obligatory_tumblr_gif_loop](https://github.com/revdancatt/FutureLearn-Creative-Coding/tree/master/week_03/c01_obligatory_tumblr_gif_loop)
 
-![The loops](https://raw.githubusercontent.com/revdancatt/FutureLearn-Creative-Coding/master/week_03/c01_obligatory_tumblr_gif_loop/frames/frame_001.png)
+![The loops](https://raw.githubusercontent.com/revdancatt/FutureLearn-Creative-Coding/master/week_03/c01_obligatory_tumblr_gif_loop/animated.gif)
 
 Sin waves, circles, the illusion of rotation oh my.
 
-### c02_draw_the_pretty_lines
+### [c02_draw_the_pretty_lines](https://github.com/revdancatt/FutureLearn-Creative-Coding/tree/master/week_03/c02_draw_the_pretty_lines)
 
 ![All the pretty lines](https://raw.githubusercontent.com/revdancatt/FutureLearn-Creative-Coding/master/week_03/c02_draw_the_pretty_lines/frames/frame_002500.png)
 
@@ -68,29 +68,31 @@ Pulling from the more subtle CMYK palette rather than bolder RGB helps too.
 
 What I'm getting at here is that a) I'm awesome and b) going into code with an understanding of colour, tone and texture beats trying to force an end result with just the code. Code itself is not enough.
 
-### c03_draw_zachary
+### [c03_draw_zachary](https://github.com/revdancatt/FutureLearn-Creative-Coding/tree/master/week_03/c03_draw_zachary)
 
 ![Draw Zachary](https://raw.githubusercontent.com/revdancatt/FutureLearn-Creative-Coding/master/week_03/c03_draw_zachary/zachary.gif)
 
 An attempt to combine the line drawing code and an image, to have the effect of the line drawing the image. Arguably this didn't really work. Which I think is a function of the algorithm used to move the line around than anything else. Given time I'd do this one differently.
 
-### c97_bonus_3D_cube
+### [c97_bonus_3D_cube](https://github.com/revdancatt/FutureLearn-Creative-Coding/tree/master/week_03/c97_bonus_3D_cube)
 
 ![Too fast explody cubes](https://raw.githubusercontent.com/revdancatt/FutureLearn-Creative-Coding/master/week_03/c97_bonus_3D_cube/cubes.gif)
 
 I wanted to move the lines code into 3D, but before that I figured I need to explore 3D a little, which I did writing some code to draw, rotate a cube in 3D. And being able to manipulate elements of it. There's something useful going on here for pattern making, but I didn't push it far enough.
 
-### c98_bonus_isometric_ish_cube
+### [c98_bonus_isometric_ish_cube](https://github.com/revdancatt/FutureLearn-Creative-Coding/tree/master/week_03/c98_bonus_isometric_ish_cube)
 
 Figuring out how to do isometric stuff with cubes thinking I'd go off in that direction. To have them being properly lit by (maybe moving) lighting rather than drawing "3D" cubes in 2D was the end objective. I didn't get very far, but enough to know it was do-able, which is what counts.
 
-### c99_bonus_3D_pretty_lines
+### [c99_bonus_3D_pretty_lines](https://github.com/revdancatt/FutureLearn-Creative-Coding/tree/master/week_03/c99_bonus_3D_pretty_lines)
 
 ![Bouncing points in 3D](https://raw.githubusercontent.com/revdancatt/FutureLearn-Creative-Coding/master/week_03/c99_bonus_3D_pretty_lines/loop01.gif)
 
 Taking the "bouncing lines" code and turning it into 3D was relatively simple, although I had to separated out the code that moved the lines from the code that drew them which was closely paired in the 2D version.
 
 The gif above shows the points bouncing around inside a box, meanwhile the full code persists those lines within the 3D space. But it's harder to show what's going in a single still from the whole sketch.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oMzJUlSgq5g" frameborder="0" allowfullscreen></iframe>
 
 ## [Week 4](https://github.com/revdancatt/FutureLearn-Creative-Coding/tree/master/week_04)
 
@@ -100,7 +102,7 @@ Triangle pose an interesting challenge for coding in that computers are great at
 
 When we started with the pixel reading/writing code I knew it was a chance to have a go (and by chance I mean, time set aside that I normally wouldn't have).
 
-### c01_one_pixel_cinema
+### [c01_one_pixel_cinema](https://github.com/revdancatt/FutureLearn-Creative-Coding/tree/master/week_04/c01_one_pixel_cinema)
 
 ![One pixel Cinema](https://raw.githubusercontent.com/revdancatt/FutureLearn-Creative-Coding/master/week_04/c01_one_pixel_cinema/film_thelma_louise/frame_0001.png)
 
@@ -108,13 +110,13 @@ There are a number of ways to extract the main colour palette used in an image, 
 
 In this case I just scale the image down to a 2 pixel high image. Then in theory I could just scale the image back up. In this case I'm actually reading the values and then drawing lines between the two values incase I want to do something different or clever with them (maybe throw in some curves).
 
-### c98_bonus_3D_landscape
+### [c98_bonus_3D_landscape](https://github.com/revdancatt/FutureLearn-Creative-Coding/tree/master/week_04/c98_bonus_3D_landscape)
 
 ![3D Landscape](https://raw.githubusercontent.com/revdancatt/FutureLearn-Creative-Coding/master/week_04/c98_bonus_3D_landscape/frames/frame_0030.png)
 
 Back into the land (natch) of 3D. This was very quick and a test of the random noise generator in Processing. Also to test the lighting a little bit. There's about a billion different ways this could be improved.
 
-### c99_bonus_triangle_images
+### [c99_bonus_triangle_images](https://github.com/revdancatt/FutureLearn-Creative-Coding/tree/master/week_04/c99_bonus_triangle_images)
 
 ![Triangles!](https://raw.githubusercontent.com/revdancatt/FutureLearn-Creative-Coding/master/week_04/c99_bonus_triangle_images/source01/frame_0011.png)
 
@@ -128,27 +130,29 @@ I don't recall there being much in the way of projects to code this week, more o
 
 First...
 
-### c01_clock
+### [c01_clock](https://github.com/revdancatt/FutureLearn-Creative-Coding/tree/master/week_05/c01_clock)
 
 ![Clock](https://raw.githubusercontent.com/revdancatt/FutureLearn-Creative-Coding/master/week_05/c01_clock/clock.gif)
 
 Time and motion. An excuse to throw in the rotation matrix stuff I'd learnt. Pretty simple with a couple of interesting things going on in the framing. I didn't want to let the numbers just float around in space, and yet the framing should distract from the numbes, after all those are what you want to read, but still represent the tick/tock passing of time.
 
-### c02_hex_pattern
+### [c02_hex_pattern](https://github.com/revdancatt/FutureLearn-Creative-Coding/tree/master/week_05/c02_hex_pattern)
 
 ![Hexes](https://raw.githubusercontent.com/revdancatt/FutureLearn-Creative-Coding/master/week_05/c02_hex_pattern/frames/frame_0008.png)
+
+![Hexes 2](https://raw.githubusercontent.com/revdancatt/FutureLearn-Creative-Coding/master/week_05/c02_hex_pattern/frames/frame_0004.png)
 
 This was the 1st pass at generating a hexgrid, there's still a few logical/math flaws in the code, but they tend to be hidden away from most use cases.
 
 This code through various tweaking generated a variety of image. The default one is pretty good as showing what's going on with the various sizes of hexes. But changing values around can give a surprising about of different effects.
 
-### c03_sketchy_hex_pattern
+### [c03_sketchy_hex_pattern](https://github.com/revdancatt/FutureLearn-Creative-Coding/tree/master/week_05/c03_sketchy_hex_pattern)
 
 ![Sketchy Hexes](https://raw.githubusercontent.com/revdancatt/FutureLearn-Creative-Coding/master/week_05/c03_sketchy_hex_pattern/c03_sketchy_hex_pattern.jpg)
 
 Haven't touched the `handy` sketchy effect for a while, time to sort that out :D
 
-### c04_colourful_hexes
+### [c04_colourful_hexes](https://github.com/revdancatt/FutureLearn-Creative-Coding/tree/master/week_05/c04_colourful_hexes)
 
 ![Colourful Hexes](https://raw.githubusercontent.com/revdancatt/FutureLearn-Creative-Coding/master/week_05/c04_colourful_hexes/example_06.jpg)
 
@@ -156,13 +160,13 @@ This started off as an failed experiment as importing and reusing an SVG to form
 
 Again, I tweaked the code a lot while figuring out what I was doing.
 
-### c97_bonus_circles_on_hex_grid
+### [c97_bonus_circles_on_hex_grid](https://github.com/revdancatt/FutureLearn-Creative-Coding/tree/master/week_05/c97_bonus_circles_on_hex_grid)
 
 ![Circles on a hex grid](https://raw.githubusercontent.com/revdancatt/FutureLearn-Creative-Coding/master/week_05/c97_bonus_circles_on_hex_grid/anim1/frame_0154.png)
 
 What patterns, I thought, would you get if you put expanding circles on the hex grid. One way to find out.
 
-### c98_bonus_3D_hexes
+### [c98_bonus_3D_hexes](https://github.com/revdancatt/FutureLearn-Creative-Coding/tree/master/week_05/c98_bonus_3D_hexes)
 
 ![3D hexes](https://raw.githubusercontent.com/revdancatt/FutureLearn-Creative-Coding/master/week_05/c98_bonus_3D_hexes/hex_tower.gif)
 
@@ -170,7 +174,7 @@ After creating the hex images I was challenged on twitter to add a couple of dim
 
 Next up Hex-Bert.
 
-### c99_bonus_hexgrid_svg
+### [c99_bonus_hexgrid_svg](https://github.com/revdancatt/FutureLearn-Creative-Coding/tree/master/week_05/c99_bonus_hexgrid_svg)
 
 ![Hex cuts](https://raw.githubusercontent.com/revdancatt/FutureLearn-Creative-Coding/master/week_05/c99_bonus_hexgrid_svg/papercuts.jpg)
 
@@ -184,7 +188,7 @@ Super easy as it happens, you start an SVG capture, draw all the shapes then end
 
 Probably the trickiest of weeks because I had very little time and was probably trying to cram too much new stuff into that time. I aimed to learn all about Vectors (or at least understand them more than I did before) and FFT audio processing, which I've done in JavaScript before but not Processing.
 
-### c01_landscape_postcard
+### [c01_landscape_postcard](https://github.com/revdancatt/FutureLearn-Creative-Coding/tree/master/week_06/c01_landscape_postcard)
 
 ![Landscape 1](https://raw.githubusercontent.com/revdancatt/FutureLearn-Creative-Coding/master/week_06/c01_landscape_postcard/seed_3175/frame_00200.png)
 
