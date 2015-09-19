@@ -1,6 +1,6 @@
 # A collection of things I did during the 6 weeks of Future Learn's Creative Coding
 
-I've been inundated with requests (2) for me to post some of the code I created as I worked by way through [FutureLearn's Creative Coding](https://www.futurelearn.com/courses/creative-coding/) course.
+I've been inundated with requests (2) for me to post some of the code I created as I worked my way through [FutureLearn's Creative Coding](https://www.futurelearn.com/courses/creative-coding/) course.
 
 One thing I particularly like about Processing is the use of "Sketch" for a program, it feels relaxed, loose, inviting you to quickly sketch out ideas. As such the code here was never really supposed to be public, some of it was iterated over quick sometimes changing direction halfway through. I'm a long time coder, but only dabbled in Processing, often giving up on it due to terrible debugging tools, which are now partially addressed in version 3.
 
@@ -205,4 +205,4 @@ Each part of the code was trying ideas out, so I could take the elements and wor
 I played (which is why it's a bit shonky) the audio live from a Native Instruments Komplete Kontrol, piping it in via SoundFlower. Could easily change the code to get the audio in from somewhere else.
 
 [[Click here or below to see HD Vimeo version](https://player.vimeo.com/video/138961447)]<br />
-[![YouTube 3D Lines video](https://i.vimeocdn.com/video/534561113_640x360.jpg)](https://player.vimeo.com/video/138961447 "Vimeo landscape video")
+[![YouTube 3D Lines video](https://i.vimeocdn.com/video/534561113_640x360.jpg)](https://player.vimeo.com/video/138961447 "Vimeo landscape video").
