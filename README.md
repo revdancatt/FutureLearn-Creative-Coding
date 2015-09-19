@@ -1,6 +1,6 @@
-# A collection of things I did during the 6 weeks of Creative Coding
+# A collection of things I did during the 6 weeks of Future Learn's Creative Coding
 
-I've been inundated with requests (2) for me to post some of the code I created as I worked by way through Future Learn's Creative Coding course.
+I've been inundated with requests (2) for me to post some of the code I created as I worked by way through [FutureLearn's Creative Coding](https://www.futurelearn.com/courses/creative-coding/) course.
 
 One thing I particularly like about Processing is the use of "Sketch" for a program, it feels relaxed, loose, inviting you to quickly sketch out ideas. As such the code here was never really supposed to be public, some of it was iterated over quick sometimes changing direction halfway through. I'm a long time coder, but only dabbled in Processing, often giving up on it due to terrible debugging tools, which are now partially addressed in version 3.
 
